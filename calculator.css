@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+}
+.btns{
+    margin:auto;
+}
+input{
+    border-radius: 20px;
+    border: 5px solid #011701;
+    font-size: 46px;
+}
+button{
+    font-size: 33px;
+    background-color: aqua;
+    border-radius: 15px;
+    width:91px;
+    height:50px;
+}
+.display{
+    background-color: blueviolet;
+    display:inline-block;
+    border-radius: 23px;
+    padding: 20px;
+    border: 5px solid #14147a;
+}
